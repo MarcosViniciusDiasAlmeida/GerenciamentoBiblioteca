@@ -15,7 +15,6 @@
 4. **Interação com o usuário**: Implementação de um menu que permite escolher entre cadastrar, consultar catálogo, emprestar e devolver livros.
 
 ## Backlog
-1. **Limitar empréstimos simultâneos**: Já existe uma limitação de 3 livros por usuário, mas a funcionalidade pode ser expandida para exibir quais livros o usuário já pegou emprestado.
 2. **Relatório de livros emprestados**: Criar um método que exibe todos os livros atualmente emprestados por um usuário.
 3. **Validação de entradas**: Adicionar validações mais robustas para garantir que as entradas do usuário sejam consistentes (por exemplo, evitar entrada de quantidade negativa).
 4. **Persistência de dados**: Salvar o catálogo de livros e os dados dos usuários em arquivos para que o sistema não perca informações ao ser fechado.
